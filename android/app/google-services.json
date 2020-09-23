@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080759975939",
+    "firebase_url": "https://usha-kiran-test.firebaseio.com",
+    "project_id": "usha-kiran-test",
+    "storage_bucket": "usha-kiran-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080759975939:android:f7bc23a51c31ee73b6ce36",
+        "android_client_info": {
+          "package_name": "com.ushakiran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080759975939-3d5f50q6m57hvskdbo3reqrihoaq2f2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTFt5mSjmrNqPeA5kIZbtk4A4QPhFxP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080759975939-3d5f50q6m57hvskdbo3reqrihoaq2f2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
